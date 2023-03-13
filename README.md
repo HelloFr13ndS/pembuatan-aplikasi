@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar Volunter yang diterima:
+* Ice Man, [Linkedin](https://www.linkedin.com/in/iceman/).
